@@ -14,7 +14,7 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 ## Things I am passionate about
 
-- Android :robot:
+- Games & Tech :robot:
 - Open source :octocat:
 
 ## Get in touch :coffee:
